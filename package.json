@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-crear-canciones",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-crear-canciones",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-crear-canciones.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/como-crear-canciones-con-ia-usando-vidnoz/"
+    },
+    "homepage": "https://isproto.com/como-crear-canciones-con-ia-usando-vidnoz/"
+}
